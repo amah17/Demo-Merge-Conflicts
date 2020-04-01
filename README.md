@@ -1,3 +1,3 @@
 # Demo-Merge-Conflicts
 
-by Aiden Mah
+A simple demo, by Aiden Mah, for DMIT-2018
